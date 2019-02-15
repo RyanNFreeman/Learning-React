@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 0 36px;
+}
+
+.instructions-text {
+  font-size: 24px;
+  text-align: left;
+  margin-bottom: 24px;
+}
+.person-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.person-quote {
+  font-size: 36px;
+}
+
+.attribution {
+  margin-top: 48px;
+}
+
+a {
+  margin-right: 16px;
+  text-decoration: none;
+  color: black;
+}
